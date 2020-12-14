@@ -27,3 +27,8 @@ where D is not equal to d
       ethan is not equal to ETHAN
 
 I am saying again a single word is Variable .any word, for example Ethan..
+
+# Keywords or Reserved Words
+Python language uses the following keywords which are not available to users to use them as Identifiers.
+There are 35 keywords in Python that we cannot use as identifier. 
+https://www.w3schools.com/python/python_ref_keywords.asp 
